@@ -77,8 +77,6 @@ Top 5 submissions advance to Phase 2.
 
 Phase 2 details will be shared with finalists after Phase 1 results are announced on **Thursday, April 9, 2025**.
 
-**⏰ Deadline: Saturday, April 12, 2025**
-
 ---
 
 ## 📬 How to Submit
