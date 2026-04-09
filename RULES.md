@@ -15,11 +15,9 @@ This is not just a hackathon. It is a portfolio project — the kind that gets y
 | Milestone | Date |
 |-----------|------|
 | Phase 1 Opens | Saturday, April 5, 2025 |
-| Phase 1 Submissions Due | **Wednesday, April 8, 2025 at 11:59 PM PST** |
-| Top 5 Finalists Announced | Thursday, April 9, 2025 |
-| Phase 2 Opens | Thursday, April 9, 2025 |
-| Phase 2 Submissions Due | **Saturday, April 12, 2025** |
-| Winner Announced | Saturday, April 12, 2025 |
+| Phase 1 Submissions Due | **Saturday, April 11, 2025 at 11:59 PM PST** |
+| Top 5 Finalists Announced | TBD |
+| Phase 2 — Predictive Analysis | *More details coming soon* |
 
 ---
 
@@ -63,9 +61,9 @@ These are just starting points. The best submissions will find angles nobody els
 | Harsh Punjabi | Senior Analytics Engineer, Lightspeed Commerce — [LinkedIn](https://www.linkedin.com/in/harsh-punjabi-ca/) |
 | Kunwar Ravendra Singh | Senior Marketing Science Analyst, Flipp — [LinkedIn](https://www.linkedin.com/in/ravendras/) |
 
-**Judging Criteria:** *To be confirmed*
+**Judging Criteria:** See [SCORING.md](https://github.com/SahilGogna/IPL-Hackathon/blob/main/SCORING.md) for the full breakdown.
 
-**⏰ Deadline: Wednesday, April 8, 2025 at 11:59 PM PST**
+**⏰ Deadline: Saturday, April 11, 2025 at 11:59 PM PST**
 
 Top 5 submissions advance to Phase 2.
 
@@ -75,7 +73,7 @@ Top 5 submissions advance to Phase 2.
 
 > *Open to Top 5 finalists from Phase 1 only*
 
-Phase 2 details will be shared with finalists after Phase 1 results are announced on **Thursday, April 9, 2025**.
+After Phase 1 wraps up, the top 5 finalists will move on to **Phase 2 — Predictive Analysis**. More details on Phase 2 will be shared soon.
 
 ---
 
