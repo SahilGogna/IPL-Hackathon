@@ -14,8 +14,8 @@ This is not just a hackathon. It is a portfolio project — the kind that gets y
 
 | Milestone | Date |
 |-----------|------|
-| Phase 1 Opens | Saturday, April 5, 2025 |
-| Phase 1 Submissions Due | **Saturday, April 11, 2025 at 11:59 PM PST** |
+| Phase 1 Opens | Saturday, April 5, 2026 |
+| Phase 1 Submissions Due | **Saturday, April 11, 2026 at 11:59 PM PST** |
 | Top 5 Finalists Announced | TBD |
 | Phase 2 — Predictive Analysis | *More details coming soon* |
 
@@ -63,7 +63,7 @@ These are just starting points. The best submissions will find angles nobody els
 
 **Judging Criteria:** See [SCORING.md](https://github.com/SahilGogna/IPL-Hackathon/blob/main/SCORING.md) for the full breakdown.
 
-**⏰ Deadline: Saturday, April 11, 2025 at 11:59 PM PST**
+**⏰ Deadline: Saturday, April 11, 2026 at 11:59 PM PST**
 
 Top 5 submissions advance to Phase 2.
 
